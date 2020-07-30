@@ -11,12 +11,12 @@ def monopoly_with_second_tier
   # complexity.
 
   hash_a = {:railroads => 
-  {:pieces => "4"},
-  {:rent_in_dollars => {}}
-  {:names => {}}
+  {:pieces =>"4"},
+  {:rent_in_dollars =>{}}
+  {:names =>{}}
   }
 end
-
+0320/intro_to_ruby_hashes_lab.rb:15: syntax error, unexpected '\n', expecting =>
 def monopoly_with_third_tier
   # When you start writing the implementation for this method, copy the Hash
   # you built in the previous method. Run the tests. They will fail, but
