@@ -1,8 +1,7 @@
 def base_hash
   # Remember implicit return! We're returning this new Hash _without_ the
   # keyword "return." Nice and neat.
-  hash_a = {:railroads => []},
-  hash_a 
+  hash_a = {:railroads => []}
 end
 def monopoly_with_second_tier
   # When you start writing the implementation for this method, copy the Hash
